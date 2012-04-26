@@ -5,7 +5,6 @@
 #include "resource.h"
 
 // CAboutDlg dialog used for App About
-
 class CAboutDlg : public CDialog
 {
 public:
